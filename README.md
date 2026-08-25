@@ -182,7 +182,9 @@ It also strengthened practical skills in transforming recruitment data into acti
 
 ## Dashboard Demo
 
-A short demonstration video of the interactive Recruitment Analytics Dashboard is included in the repository.
+🎥 [Watch the Recruitment Analytics Dashboard Demo](https://youtu.be/JShn64oAmDI)
+
+A 2-minute 50-second demonstration of the interactive Power BI dashboard, covering recruitment overview, source and recruiter performance, and department and job analysis.
 
 ## Note
 
